@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reqornot/static/css/main.f855e6bc.css",
-    "main.js": "/reqornot/static/js/main.fd92289e.js",
-    "static/js/453.acaf03f0.chunk.js": "/reqornot/static/js/453.acaf03f0.chunk.js",
-    "static/media/logo.svg": "/reqornot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/reqornot/static/css/main.5e1e36a5.css",
+    "main.js": "/reqornot/static/js/main.f6c38873.js",
+    "static/media/majeur.png": "/reqornot/static/media/majeur.febc33f55005ad82217c.png",
+    "static/media/tribunal.png": "/reqornot/static/media/tribunal.9a80169ba61980a09c6f.png",
+    "static/media/logoATI.jpg": "/reqornot/static/media/logoATI.0d2b9e7d0d3aff3d3388.jpg",
     "index.html": "/reqornot/index.html",
-    "main.f855e6bc.css.map": "/reqornot/static/css/main.f855e6bc.css.map",
-    "main.fd92289e.js.map": "/reqornot/static/js/main.fd92289e.js.map",
-    "453.acaf03f0.chunk.js.map": "/reqornot/static/js/453.acaf03f0.chunk.js.map"
+    "main.5e1e36a5.css.map": "/reqornot/static/css/main.5e1e36a5.css.map",
+    "main.f6c38873.js.map": "/reqornot/static/js/main.f6c38873.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fd92289e.js"
+    "static/css/main.5e1e36a5.css",
+    "static/js/main.f6c38873.js"
   ]
 }
