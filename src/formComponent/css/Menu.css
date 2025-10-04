@@ -1,0 +1,28 @@
+.box_menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    background-color: #0203FB;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding: 10px 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.fleche {
+    width: 20px;
+    height: 32px;
+    background-color: #0203FB;
+    clip-path: polygon(0 0, 0 100%, 100% 50%);
+    margin: 30px;
+}
+
+.disabled {
+    display: none;
+}

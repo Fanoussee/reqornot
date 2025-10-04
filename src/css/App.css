@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(218, 227, 244);
+}
+
+.App {
+  font-family: Garamond, Arial, Helvetica, sans-serif;
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 90vh;
+}
+
+.disabled {
+  opacity: 0.3;
+}

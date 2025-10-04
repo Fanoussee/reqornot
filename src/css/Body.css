@@ -1,0 +1,20 @@
+.website-body {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin: 20px 0px;
+  padding: 20px;
+}
+
+.menu-resume {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+
+.body-box {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,8 @@
+.navigation {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 5px solid blue;
+  padding: 10px;
+  margin-bottom: 20px;
+  height: 100px;
+}

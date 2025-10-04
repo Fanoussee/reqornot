@@ -1,0 +1,20 @@
+.button-select {
+    border: none;
+    border-radius: 20px;
+    background-color: #4C9742;
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    align-self: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    color: white;
+    cursor: pointer;
+    transition: 500ms all ease;
+}
+
+.button-select:hover {
+    background-color: #1A5320;
+    transform: scale(1.05);
+}
